@@ -1,0 +1,9 @@
+soap
+5
+10
+paste
+10
+20
+brush
+12
+5
